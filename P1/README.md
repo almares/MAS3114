@@ -1,1 +1,1 @@
-Utilizing functional code, probability vectors,, matrix transformation, and various matrix properties.
+Utilizing functional code, probability vectors, and matrix transformation to highlight various matrix properties.
